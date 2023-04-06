@@ -1,0 +1,61 @@
+body{
+    background-color: gray;
+    border: 8px solid red;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+    transition-property: text-shadow;
+    font-family: 'Dosis', sans-serif;
+  }
+.container{
+ background-color: lavender;
+ border-radius: 45px;
+ box-shadow: 18px 15px indigo;
+ margin: 24px auto;
+  }
+
+.header-title {
+    font-family: 'Vollkorn', serif;
+    font-size: 5em;
+    color: green;
+  }
+   
+.header-subtitle{
+    font-family: 'vollkorn' serif;
+    font-size: 2.2em;
+    color:yellow green;
+}  
+.image {
+    padding: 10px;
+    max-width: 760px;
+    margin: auto;
+  }
+   
+.thumbnail{
+    border-radius: 10px;
+    box-shadow: 8px 5px 5px gray;
+    font-family: 'Nova Script',cursive;
+}
+.event-title{
+    font-family: 'vollkorn', serif;
+    font-size: 2.5em;
+    margin: 24px;
+}
+.quote{
+    font-style: italic;
+    font-family: 'Nova Script',cursive;
+    margin: 24px;
+    font-size: 2em;
+}
+
+.more-info{
+    font-family: 'Dosis',sans-serif;
+    font-size: 1.2em;
+    margin: 22px;
+}
+.footer{
+    font-family: 'Nova Script',cursive;
+}
+
+   
